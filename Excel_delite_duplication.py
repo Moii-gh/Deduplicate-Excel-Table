@@ -1,6 +1,10 @@
 import os
-import pandas as pd
+os.system("python.exe -m pip install --upgrade pip")
+os.system("python.exe -m pip install pandas")
+os.system("python.exe -m pip install tkinter (from versions: none)")
+
 from tkinter import Tk, filedialog
+import pandas as pd
 
 def remove_duplicates_from_excel(file_path):
     # Check if the file exists
