@@ -31,7 +31,7 @@ This Python script allows you to remove duplicate entries from an Excel file bas
 3. Run the script:
 
    ```bash
-   python script.py
+   python Excel_delite_duplication.py
    ```
 
 5. Follow the on-screen instructions to select the Excel file and remove duplicates.
