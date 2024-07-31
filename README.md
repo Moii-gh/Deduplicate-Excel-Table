@@ -19,7 +19,7 @@ This Python script allows you to remove duplicate entries from an Excel file bas
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/excel-duplicate-remover.git
+   git clone https://github.com/Moii-gh/Deduplicate-Excel-Table.git
    ```
 
 2. Navigate to the project directory:
@@ -28,13 +28,7 @@ This Python script allows you to remove duplicate entries from an Excel file bas
    cd excel-duplicate-remover
    ```
 
-3. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run the script:
+3. Run the script:
 
    ```bash
    python script.py
